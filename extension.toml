@@ -1,0 +1,7 @@
+[extension]
+id = "regex_tester"
+name = "Regex Tester"
+version = "0.1.0"
+description = "Regex Tester extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
